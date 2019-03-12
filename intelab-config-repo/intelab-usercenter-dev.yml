@@ -1,5 +1,5 @@
 server:
-  port: 5004
+  port: 7704
 
 ## 覆盖application-dev.yml中的默认配置
 persistence:
@@ -8,4 +8,4 @@ persistence:
       driver: com.mysql.jdbc.Driver
       url: jdbc:mysql://localhost:3306/intelab_cloud?useUnicode=true&characterEncoding=utf8&useSSL=false
       username: root
-      password: 123456
+      password: root1234
